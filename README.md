@@ -9,4 +9,6 @@ Aswini Ghosh
 Joshua Thomas Paul
 (Students of DSCE, dept. of CSE)
 
-Subject: Database Management System (DBMS)
+Subject: Database Management System (DBMS), 4th Semester
+
+
